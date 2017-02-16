@@ -1,2 +1,5 @@
 # sparse-linear-algebra-IO
-Input/output for sparse-linear-algebra
+
+[![Build Status](https://travis-ci.org/ocramz/sparse-linear-algebra-IO.png)](https://travis-ci.org/ocramz/sparse-linear-algebra-IO)
+
+Input/Output functionality for sparse-linear-algebra
