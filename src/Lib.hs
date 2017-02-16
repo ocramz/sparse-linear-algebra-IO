@@ -6,4 +6,4 @@ import qualified Numeric.LinearAlgebra.Sparse as LA
 
 
 
-mmMatrixToSpMatrix (M.RMatrix (m,n) nz str ll) = undefined -- LA.fromListSM
+mmMatrixToSpMatrix (M.RMatrix (m,n) nz str ll) = LA.fromListSM (m,n) ll
